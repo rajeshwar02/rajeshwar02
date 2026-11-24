@@ -76,18 +76,17 @@ I enjoy learning how software works, exploring new technologies and turning idea
 - Tailwind CSS
 
 ### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring" height="48" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-**Technologies**
-- Java
-- Spring Boot
-- REST API
-- Hibernate
-- JPA
-- Microservices Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-007396?style=flat-square" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=flat-square" />
+</p>
 
 ### 🗄️ Database & Storage
 
